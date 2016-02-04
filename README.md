@@ -8,6 +8,8 @@ Security, speed, compliance, and flexibility -- all of these describe lighttpd (
 
 ## Dockerfile
 
+[**Dockerfile**](https://github.com/uzyexe/dockerfile-lighttpd)
+
 [**Trusted Build**](https://hub.docker.com/r/uzyexe/lighttpd/)
 
 This Docker image is based on the official [alpine:3.3](https://hub.docker.com/_/alpine/) base image.
